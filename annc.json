@@ -1,0 +1,5 @@
+{
+  "Message": "",
+  "ExpireUnix": 1234124,
+  "function": "setclipboard(game.JobId)"
+}
