@@ -1,5 +1,5 @@
 {
-  "Message": "",
-  "ExpireUnix": 1234124,
-  "function": "setclipboard(game.JobId)"
+  "Message": "SILLY SIGMAS HELLOOO",
+  "ExpireUnix": 1747849519,
+  "function": "print('HI FROM ANNOUNCEMENT')"
 }
